@@ -72,6 +72,7 @@ input {
         margin: 0 auto;
         width: 15rem;
         height: 12rem;
+        object-fit: cover;
     }
 
 .hero-banner .hero-image {
